@@ -1,2 +1,2 @@
 # TodoList-App
-A TodoList app i created with react.js 
+A TodoList app  created with react.js 
